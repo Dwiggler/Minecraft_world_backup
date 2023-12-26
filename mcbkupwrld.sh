@@ -12,10 +12,11 @@ echo $worlddirectory > /tmp/bkup_test.txt
 
 #create date/timestamp
 
-#Copy file to backup directory 
+#Copy file to backup directory
 
 #Restart Minecraft
 
 #Change name of world file to date/timestamp for version
 
 #Delete 4th oldest file
+exit
